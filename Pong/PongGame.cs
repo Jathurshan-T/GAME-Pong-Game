@@ -2,10 +2,7 @@
 using System.Windows.Forms;
 using Microsoft.Xna.Framework;
 
-    /* Jathurshan Theivikaran
-     * April 1 2019
-     * This program executes the digital Ping Pong game
-     */
+    // This program executes the digital Ping Pong game
 
     namespace Pong
     {
